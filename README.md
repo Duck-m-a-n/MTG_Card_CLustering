@@ -23,7 +23,7 @@ name
 - subtypes
 - edhrecSaltiness
 - legalities.csv
-- 
+
 The legalities.csv file contains information about the legality of each card in various Magic the Gathering formats, including the Commander format. The following columns are included in the file:
 
 - name
