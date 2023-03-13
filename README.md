@@ -1,4 +1,4 @@
-__Magic the Gathering Card Clustering__
+🧙‍♂️__Magic the Gathering Card Clustering__ 🃏
 
 `Introduction`
 
@@ -30,6 +30,7 @@ The legalities.csv file contains information about the legality of each card in 
 - format
 - legality
 - Clusters
+
 The cards in the cards.csv file have been clustered into four clusters based on their attributes. The clusters and their characteristics are as follows:
 
 - Cluster 0 - "Mid-Cost Creatures / Low-Cost Utility"
