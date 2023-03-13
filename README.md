@@ -1,4 +1,4 @@
-🧙‍♂️__Magic the Gathering Card Clustering__ 🃏
+🧙‍♂️ __Magic the Gathering Card Clustering__ 🃏
 
 `Introduction`
 
