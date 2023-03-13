@@ -9,31 +9,34 @@ cards.csv
 The cards.csv file contains information about each Magic the Gathering card, including its name, mana cost, type, text, power, toughness, rarity, and other attributes. The following columns are included in the file:
 
 name
-convertedManaCost
-colors
-type
-text
-power
-toughness
-rarity
-format
-keywords
-edhrecRank
-subtypes
-edhrecSaltiness
-legalities.csv
+
+- convertedManaCost
+- colors
+- type
+- text
+- power
+- toughness
+- rarity
+- format
+- keywords
+- edhrecRank
+- subtypes
+- edhrecSaltiness
+- legalities.csv
+- 
 The legalities.csv file contains information about the legality of each card in various Magic the Gathering formats, including the Commander format. The following columns are included in the file:
 
-name
-format
-legality
-Clusters
+- name
+- format
+- legality
+- Clusters
 The cards in the cards.csv file have been clustered into four clusters based on their attributes. The clusters and their characteristics are as follows:
 
-Cluster 0 - "Mid-Cost Creatures / Low-Cost Utility"
-Cluster 1 - "Low-Cost Spells / Low-Power Aggro"
-Cluster 2 - "Low-Cost Creatures / Midrange Control"
-Cluster 3 - "High-Cost Powerhouses / High-Power Beatdown"
+- Cluster 0 - "Mid-Cost Creatures / Low-Cost Utility"
+- Cluster 1 - "Low-Cost Spells / Low-Power Aggro"
+- Cluster 2 - "Low-Cost Creatures / Midrange Control"
+- Cluster 3 - "High-Cost Powerhouses / High-Power Beatdown"
+
 For each cluster, we provide the median and mean values of the attributes used in the clustering, as well as a description of the cluster's characteristics and potential use in Magic: The Gathering gameplay.
 
 `EDA`
